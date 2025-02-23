@@ -16,7 +16,7 @@ Kubernetes access though the remote version control
    . Request is give and startup
    . Limit is the maximum, that the pod can use
    . This is the second priority pod
-3. Guarnteed:
+3. Guaranteed:
    ========================================
    . Mention of CPU/Memory in yaml
    . Request=Limit
