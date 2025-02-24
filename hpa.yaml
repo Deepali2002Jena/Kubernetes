@@ -59,4 +59,6 @@ spec:
         type: Utilization
         averageUtilization: 6
     targetCPUUtilizationPercentage: 6
+    # [while true; do curl http://dervice-ip; done]
+
 
