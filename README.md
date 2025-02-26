@@ -20,9 +20,12 @@ Kubernetes access though the remote version control
    ========================================
    . Mention of CPU/Memory in yaml
    . Request=Limit
-   . Highest priority pods.                
+   . Highest priority pods.
+                   
                                                            PROBES
                            ======================================================================
+
+   
 1. Startup probe:
    =========================================
    . Startup probe will check the index.html file is there or not . If it is there and the pod is ready to take traffic it will be closed.
